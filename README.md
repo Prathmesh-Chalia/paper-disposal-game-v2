@@ -1,1 +1,2 @@
-# paper-disposal-game-v2
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
